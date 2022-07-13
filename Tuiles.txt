@@ -1,0 +1,10 @@
+3 - Catherine de' Medici - 0 - 3 - 3 - 0 - 3
+3 - Elisabeth Of Austria - 3 - 0 - 3 - 3 - 0
+3 - Isabella I Of Castille - 4 - 0 - 0 - 4 - 0
+3 - Niccolò Machiavelli - 4 - 0 - 4 - 0 - 0
+3 - Suleiman The Magnificent - 0 - 0 - 4 - 0 - 4
+3 - Anne Of Brittany - 3 - 0 - 3 - 0 - 3
+3 - Charles V - 3 - 3 - 0 - 3 - 0
+3 - Francis I Of France - 0 - 3 - 0 - 3 - 3
+3 - Henry VII - 0 - 4 - 0 - 4 - 0
+3 - Mary Stuart - 0 - 4 - 0 - 0 - 4
