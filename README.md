@@ -7,7 +7,7 @@ I'm the one who worked on my own and entirely on the AI and I've corrected a par
 
 You can find all the files that have been created by Us here.
 You can also find a zip which contains the whole project with the respect of the tree form.
-There's also a ".jar" file which is a fast way of playing the game.
+There's also a ".jar" file which is a fast way of playing the game. You can find it into the zip file.
 
 You can do a party in a graphic mode or a console mode.
 You just have to follow what is explained in the user manual in order to play correctly a party.
