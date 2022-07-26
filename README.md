@@ -1,5 +1,7 @@
 # Splendor_for_visitors
 
+Project creation year: 2021-2022
+
 --English version--
 
 Here is the whole java project which is supposed to be an adaptation of the famous game called "Splendor".
