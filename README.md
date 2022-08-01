@@ -16,6 +16,8 @@ There's also a ".jar" which is a fast way of playing the game. You can find it i
 You can do a party in a graphic mode or a console mode.
 You just have to follow what is explained in the user manual in order to play correctly a party.
 
+You can also watch a demo video thanks to the file called "Partie_démo_Splendor_v_01_08_22.mp4".
+
 --Version française--
 
 Ce projet est une adaptation en java du célèbre jeu "splendor".
@@ -29,3 +31,5 @@ Il y a aussi un ".jar" dans le fichier zip, ce qui est un moyen rapide de jouer 
 
 Vous pouvez jouer en version graphique ou console.
 Pour cela, il vous suffit de suivre les explications présentes dans le manuel utilisateur joint avec le projet.
+
+Il est aussi possible de regarder une démonstration du jeu, par le fichier "Partie_démo_Splendor_v_01_08_22.mp4".
